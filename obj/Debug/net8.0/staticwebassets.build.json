@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "erMDipWhUZLTAcT355jt2+Ro556uVRxd77MHCM2Qm2w=",
+  "Source": "CarRecommendationApp",
+  "BasePath": "_content/CarRecommendationApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
